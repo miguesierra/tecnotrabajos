@@ -1,0 +1,113 @@
+.hola
+{
+	width:850px;
+	height:80px;
+	left:315px;
+	top:30px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	font-family:letra;
+	border-radius:80px;
+	font-size:55px;
+	text-align:center;
+
+}
+@font-face
+{
+	font-family: letra;
+    src: url(letra.ttf);
+}
+@font-face
+{
+	font-family: letra3;
+    src: url(letra3.ttf);
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+.lola
+{
+	width:200px;
+	height:180px;
+	left:45px;
+	top:30px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	
+}
+
+body{ background:-webkit-linear-gradient(30deg, #ED9714 30%, #E64040  70%);
+}
+.holo{
+	width:1190px;
+	height:550px;
+	border-style: solid;
+	border color:white;
+	border-radius:120px;
+}
+.lolo
+{
+	width:275px;
+	height:100px;
+	left:70px;
+	top:320px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:letra3;
+	font-size:49px;
+	display:block;
+}
+.loli
+{
+	width:275px;
+	height:100px;
+	left:350px;
+	top:230px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:letra3;
+		font-size:49px;
+}
+.lols
+{
+	width:275px;
+	height:100px;
+	left:630px;
+	top:320px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:letra3;
+		font-size:49px;
+}
+.lolx
+{
+	width:275px;
+	height:100px;
+	left:910px;
+	top:230px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:letra3;
+		font-size:49px;
+}

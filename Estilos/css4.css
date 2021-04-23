@@ -1,0 +1,69 @@
+.p3
+{
+	width:850px;
+	height:80px;
+	left:315px;
+	top:30px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	font-family:letra;
+	border-radius:80px;
+	font-size:55px;
+	text-align:center;
+
+}
+@font-face
+{
+	font-family: letra;
+    src: url(letra.ttf);
+}
+@font-face
+{
+	font-family: letra3;
+    src: url(letra3.ttf);
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+
+.p33
+{
+	width:250px;
+	height:180px;
+	left:45px;
+	top:30px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	background-image: url('../principal/imagenes/gato.jpg');
+}
+
+body{ background:-webkit-linear-gradient(30deg, #ED9714 30%, #E64040  70%);
+}
+.p333{
+	width:1190px;
+	height:550px;
+	border-style: solid;
+	border color:white;
+	border-radius:120px;
+}
+.p3333
+{
+	width:175px;
+	height:80px;
+	left:550px;
+	top:460px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:letra3;
+	font-size:35px;
+	display:block;
+}
